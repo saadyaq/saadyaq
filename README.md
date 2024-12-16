@@ -1,7 +1,7 @@
 Hello, Data World!
 
 ## 🤓 Who Am I?
-Just your friendly neighborhood data scientist in the making! I'm currently majoring in Data Science at Polytech Marseille, where I'm learning to speak fluent Python and SQL with a French accent.
+Just your friendly neighborhood data Engineer in the making! I'm currently majoring in Data Engineer at Polytech Marseille, where I'm learning to speak fluent Python and SQL with a French accent.
 
 ## 🚀 My Cosmic Data Journey
 - 🛰️ Interned at Bouygues Telecom (where I learned that "Big Data" isn't just about oversized dates)
