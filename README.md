@@ -1,25 +1,59 @@
-Hello, Data World!
+# 👋 Hello, Data World!
 
 ## 🤓 Who Am I?
-Just your friendly neighborhood data Engineer in the making! I'm currently majoring in Data Engineer at Polytech Marseille, where I'm learning to speak fluent Python and SQL with a French accent.
+I'm **Saad Yaqine**, a **Data Scientist** passionate about turning raw data into measurable business impact. I specialize in text data processing, machine learning, and production-grade MLOps pipelines.
 
-## 🚀 My Cosmic Data Journey
-- 🛰️ Interned at Bouygues Telecom (where I learned that "Big Data" isn't just about oversized dates)
-- 🥘 Studied abroad at Universidad Politécnica de Valencia (because who doesn't want to analyze data while eating paella?)
+---
 
-## 💼 What's in My Data Toolbox?
-- 🐍 Python (my digital pet snake)
-- 📊 Data Visualization (making charts prettier than my Instagram feed)
-- 🤖 Machine Learning (teaching computers to be smarter than me)
-- 🗄️ SQL (because someone needs to talk to the databases)
+## 🚀 My Data Science Journey
+- 🛰️ **Bouygues Telecom (2024):**  
+  - Designed a classification model with 94% accuracy to reduce inefficient call center interactions by 46%.  
+  - Automated MLOps pipelines with Docker, AWS Lambda, and SageMaker, cutting deployment times by 30%.  
+  - Processed massive customer datasets via PySpark and Dataiku, improving ingestion performance by 40%.
+
+- 🌍 **Universidad Politécnica de Valencia (2023):**  
+  - Built multilingual text datasets (media, social media) for open-source LLM training.  
+  - Developed a language detection model (>90% accuracy) for improved preprocessing.  
+  - Created robust NLP pipelines for cleaning, vectorization, and encoding.
+
+- 💻 **Avito (2022):**  
+  - Cleaned and processed user-generated text with Azure Data Factory to reduce bias.  
+  - Trained a text classification model (92% accuracy) using TF-IDF and embeddings.  
+  - Deployed a FastAPI microservice to automate processing of new classified ads in production.
+
+---
+
+## 🛠️ My Data Science Toolbox
+- **Languages:** Python, SQL, R  
+- **ML/AI:** Scikit-learn, PyTorch, Transformers, TensorFlow  
+- **Data Engineering:** PySpark, Kafka, Airflow  
+- **MLOps:** Docker, AWS SageMaker, Azure AI  
+- **Visualization:** Tableau, Power BI, Streamlit  
+- **Cloud:** AWS, Azure, GCP  
+- **Databases:** PostgreSQL, SQL Server, Teradata
+
+
+
+---
 
 ## 🎯 Current Mission
-I'm currently doing my internship at Bouygues Telecom and in the same time i'm looking for a new opportunity this time as a full time data scientist ot ml engineer.
+✅ Completing my Data Scientist role at **Bouygues Telecom**  
+🚀 Open to **full-time opportunities as a Data Scientist or ML Engineer** where I can deliver real-world impact with data.
+
+---
 
 ## 📫 How to Reach Me
-Smoke signals, carrier pigeons, or just drop me an email at saadyaqine91@gmail.com or connect with me in [Linkedin](https://www.linkedin.com/in/saad-yaqine-9461b2216/). I promise I'll respond faster than my neural networks converge!
+- 📧 saadyaqine91@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saad-yaqine-9461b2216/)  
+- 🐙 [GitHub](https://github.com/saadyaq)  
 
-Remember: In data we trust, but first, we clean it!
+> *In data we trust — but first, we clean it.*
+
+---
+
+## ⭐️ Fun Fact
+I’m trilingual (French, English, Arabic) and just as fluent in SQL!
+
 <!---
 saadyaq/saadyaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
