@@ -31,17 +31,34 @@ From NLP pipelines to scalable MLOps, I specialize in bringing machine learning 
 
 ---
 
-## 🧰 My Data Science Toolbox
+### 🧰 My Data Science Toolbox
 
-| Category          | Tools & Skills                                                                 |
-|-------------------|--------------------------------------------------------------------------------|
-| **Languages**     | Python, SQL, R                                                                 |
-| **ML / AI**       | Scikit-learn, PyTorch, Transformers, TensorFlow                                |
-| **Data Eng.**     | PySpark, Kafka, Airflow                                                        |
-| **MLOps**         | Docker, FastAPI, AWS SageMaker, Azure ML                                       |
-| **Visualization**| Streamlit, Power BI, Tableau                                                    |
-| **Cloud**         | AWS, Azure, GCP                                                                |
-| **Databases**     | PostgreSQL, SQL Server, Teradata                                               |
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-00B4CC?style=for-the-badge&logo=huggingface&logoColor=white)
+
+![Apache Spark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Teradata](https://img.shields.io/badge/-Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
