@@ -1,60 +1,77 @@
-# 👋 Hello, Data World!
+<h1 align="center">👋 Hello, Data World!</h1>
+
+<p align="center">
+  <em>“In data we trust — but first, we clean it.”</em>
+</p>
+
+---
 
 ## 🤓 Who Am I?
-I'm **Saad Yaqine**, a **Data Scientist** passionate about turning raw data into measurable business impact. I specialize in text data processing, machine learning, and production-grade MLOps pipelines.
+I'm **Saad Yaqine**, a **Data Scientist** passionate about transforming raw data into measurable business value.  
+From NLP pipelines to scalable MLOps, I specialize in bringing machine learning solutions to life — clean, efficient, and production-ready.
 
 ---
 
 ## 🚀 My Data Science Journey
-- 🛰️ **Bouygues Telecom (2024):**  
-  - Designed a classification model with 94% accuracy to reduce inefficient call center interactions by 46%.  
-  - Automated MLOps pipelines with Docker, AWS Lambda, and SageMaker, cutting deployment times by 30%.  
-  - Processed massive customer datasets via PySpark and Dataiku, improving ingestion performance by 40%.
 
-- 🌍 **Universidad Politécnica de Valencia (2023):**  
-  - Built multilingual text datasets (media, social media) for open-source LLM training.  
-  - Developed a language detection model (>90% accuracy) for improved preprocessing.  
-  - Created robust NLP pipelines for cleaning, vectorization, and encoding.
+### 🛰️ **Bouygues Telecom** — *Data Scientist* (2024)
+- 🧠 Designed a call classification model (94% accuracy) → reduced inefficient interactions by **46%**.
+- ⚙️ Built MLOps pipelines (Docker, AWS Lambda, SageMaker) → **30% faster deployments**.
+- 🔄 Processed big customer datasets (PySpark, Dataiku) → **+40% ingestion performance**.
 
-- 💻 **Avito (2022):**  
-  - Cleaned and processed user-generated text with Azure Data Factory to reduce bias.  
-  - Trained a text classification model (92% accuracy) using TF-IDF and embeddings.  
-  - Deployed a FastAPI microservice to automate processing of new classified ads in production.
+### 🌍 **Universidad Politécnica de Valencia** — *AI/NLP Research Intern* (2023)
+- 🌐 Built **multilingual corpora** (news, tweets) for LLM pretraining.
+- 🏷️ Developed a language detection model (**>90% accuracy**) to enhance preprocessing.
+- 🧼 Created robust NLP pipelines: cleaning → vectorization → encoding.
 
----
-
-## 🛠️ My Data Science Toolbox
-- **Languages:** Python, SQL, R  
-- **ML/AI:** Scikit-learn, PyTorch, Transformers, TensorFlow  
-- **Data Engineering:** PySpark, Kafka, Airflow  
-- **MLOps:** Docker, AWS SageMaker, Azure AI  
-- **Visualization:** Tableau, Power BI, Streamlit  
-- **Cloud:** AWS, Azure, GCP  
-- **Databases:** PostgreSQL, SQL Server, Teradata
-
-
+### 💻 **Avito** — *NLP Intern* (2022)
+- 🧹 Cleaned and normalized user-generated text with Azure Data Factory.
+- 📊 Trained a classifier (92% accuracy) with TF-IDF + embeddings.
+- 🚀 Deployed a FastAPI microservice → automated text analysis of live ads.
 
 ---
 
-## 🎯 Current Mission
-✅ Completing my Data Scientist role at **Bouygues Telecom**  
-🚀 Open to **full-time opportunities as a Data Scientist or ML Engineer** where I can deliver real-world impact with data.
+## 🧰 My Data Science Toolbox
+
+| Category          | Tools & Skills                                                                 |
+|-------------------|--------------------------------------------------------------------------------|
+| **Languages**     | Python, SQL, R                                                                 |
+| **ML / AI**       | Scikit-learn, PyTorch, Transformers, TensorFlow                                |
+| **Data Eng.**     | PySpark, Kafka, Airflow                                                        |
+| **MLOps**         | Docker, FastAPI, AWS SageMaker, Azure ML                                       |
+| **Visualization**| Streamlit, Power BI, Tableau                                                    |
+| **Cloud**         | AWS, Azure, GCP                                                                |
+| **Databases**     | PostgreSQL, SQL Server, Teradata                                               |
 
 ---
 
-## 📫 How to Reach Me
+## 🎯 My Current Mission
+✅ Finishing my Data Scientist role @ **Bouygues Telecom**  
+💼 Actively looking for **full-time roles** as a **Data Scientist** or **ML Engineer** where I can **drive real-world impact** with machine learning.
+
+---
+
+## 📫 Get in Touch
+
 - 📧 saadyaqine91@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/saad-yaqine-9461b2216/)  
-- 🐙 [GitHub](https://github.com/saadyaq)  
-
-> *In data we trust — but first, we clean it.*
+- 💼 [LinkedIn →](https://www.linkedin.com/in/saad-yaqine-9461b2216/)  
+- 🐙 [GitHub →](https://github.com/saadyaq)
 
 ---
 
-## ⭐️ Fun Fact
-I’m trilingual (French, English, Arabic) and just as fluent in SQL!
+## 🧠 Fun Facts
 
-<!---
-saadyaq/saadyaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m trilingual: **French**, **English**, **Arabic** 🌍  
+- I’m just as fluent in **SQL** as in any spoken language 🧬  
+- I love building clean, reusable code that actually gets used 🚀
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadyaq&show_icons=true&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadyaq&layout=compact&theme=tokyonight" width="335">
+</p>
+
+---
+
+<sub>✨ This profile README was built with love, coffee, and clean data ✨</sub>
