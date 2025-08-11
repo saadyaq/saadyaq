@@ -24,6 +24,11 @@ From NLP pipelines to scalable MLOps, I specialize in bringing machine learning 
 - 🏷️ Developed a language detection model (**>90% accuracy**) to enhance preprocessing.
 - 🧼 Created robust NLP pipelines: cleaning → vectorization → encoding.
 
+### 🏭 **Marsa Maroc** — *Data Scientist* (2022)
+- 🔍 Conducted exploratory data analysis of operational equipment data → identified modernization and predictive maintenance opportunities.
+- ⚙️ Built ETL pipeline aggregating heterogeneous sources (sensors, ERP, maintenance logs) → structured data workflow.
+- 📊 Developed advanced Tableau dashboards tracking availability rates and maintenance costs → **40% reduction in monthly reporting time**.
+
 ### 💻 **Avito** — *NLP Intern* (2022)
 - 🧹 Cleaned and normalized user-generated text with Azure Data Factory.
 - 📊 Trained a classifier (92% accuracy) with TF-IDF + embeddings.
