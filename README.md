@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, Data World!</h1>
 
 <p align="center">
-  <em>“In data we trust — but first, we clean it.”</em>
+  <em>"In data we trust — but first, we clean it."</em>
 </p>
 
 ---
@@ -63,30 +63,89 @@ From NLP pipelines to scalable MLOps, I specialize in bringing machine learning 
 ---
 
 ## 🎯 My Current Mission
-✅ Finishing my Data Scientist role @ **Bouygues Telecom**  
-💼 Actively looking for **full-time roles** as a **Data Scientist** or **ML Engineer** where I can **drive real-world impact** with machine learning.
+🚀 **AVAILABLE IMMEDIATELY** for new opportunities!  
+💼 Actively seeking **full-time roles** as a **Data Scientist** or **ML Engineer** where I can **drive real-world impact** with machine learning.  
+✅ Recently completed my mission @ **Bouygues Telecom** with measurable business impact
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadyaq&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadyaq&layout=compact&theme=tokyonight&langs_count=8" width="48%" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadyaq&theme=tokyonight" width="60%" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadyaq&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadyaq&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies">
+</p>
+
+---
+
+## 💼 Professional Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for Hire">
+  <img src="https://img.shields.io/badge/Notice%20Period-Immediate-success?style=for-the-badge&logo=clock&logoColor=white" alt="Immediate Availability">
+  <img src="https://img.shields.io/badge/Remote%20Work-Yes-blue?style=for-the-badge&logo=wifi&logoColor=white" alt="Remote Work">
+  <img src="https://img.shields.io/badge/Relocation-Open-orange?style=for-the-badge&logo=location&logoColor=white" alt="Open to Relocation">
+</p>
+
+---
+
+## 📈 Profile Views & Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadyaq&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+  <img src="https://badges.pufler.dev/visits/saadyaq/saadyaq?style=for-the-badge&color=blue&logo=github" alt="Visitors">
+</p>
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 saadyaqine91@gmail.com  
-- 💼 [LinkedIn →](https://www.linkedin.com/in/saad-yaqine-9461b2216/)  
-- 🐙 [GitHub →](https://github.com/saadyaq)
+<p align="center">
+  <a href="mailto:saadyaqine91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/saad-yaqine-9461b2216/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/saadyaq">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
 ## 🧠 Fun Facts
 
-- I’m trilingual: **French**, **English**, **Arabic** 🌍  
-- I’m just as fluent in **SQL** as in any spoken language 🧬  
-- I love building clean, reusable code that actually gets used 🚀
+- 🌍 I'm trilingual: **French**, **English**, **Arabic**  
+- 🧬 I'm just as fluent in **SQL** as in any spoken language  
+- 🚀 I love building clean, reusable code that actually gets used  
+- ☕ Coffee-driven debugging is my superpower
 
 ---
 
+## 🎨 Dynamic Elements
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadyaq&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadyaq&layout=compact&theme=tokyonight" width="335">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Available+for+Immediate+Start;Transforming+Data+into+Business+Value;Python+%7C+SQL+%7C+MLOps+Expert;Let's+Build+Something+Amazing!" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Connect!&fontSize=50&fontAlignY=65&desc=Ready%20to%20contribute%20to%20your%20next%20data%20project&descAlignY=85&descAlign=50" width="100%">
 </p>
 
 ---
