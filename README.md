@@ -1,151 +1,158 @@
-# 👨‍💻 Hello World, I'm [Your Name]!
+<h1 align="center">👋 Hello, Data World!</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer who believes in writing clean, efficient code that makes a difference. Whether it's building scalable web applications, diving into machine learning, or exploring the latest tech trends, I'm always up for a challenge.
-
-- 🔭 Currently working on innovative web applications
-- 🌱 Learning advanced cloud architectures and DevOps practices  
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about JavaScript, Python, or anything tech-related
-- ⚡ Fun fact: I debug faster with coffee than without it
+<p align="center">
+  <em>"In data we trust — but first, we clean it."</em>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🤓 Who Am I?
+I'm **Saad Yaqine**, a **Data Scientist** passionate about transforming raw data into measurable business value.  
+From NLP pipelines to scalable MLOps, I specialize in bringing machine learning solutions to life — clean, efficient, and production-ready.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+---
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🚀 My Data Science Journey
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🛰️ **Bouygues Telecom** — *Data Scientist* (2024)
+- 🧠 Designed a call classification model (94% accuracy) → reduced inefficient interactions by **46%**.
+- ⚙️ Built MLOps pipelines (Docker, AWS Lambda, SageMaker) → **30% faster deployments**.
+- 🔄 Processed big customer datasets (PySpark, Dataiku) → **+40% ingestion performance**.
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🌍 **Universidad Politécnica de Valencia** — *AI/NLP Research Intern* (2023)
+- 🌐 Built **multilingual corpora** (news, tweets) for LLM pretraining.
+- 🏷️ Developed a language detection model (**>90% accuracy**) to enhance preprocessing.
+- 🧼 Created robust NLP pipelines: cleaning → vectorization → encoding.
+
+### 🏭 **Marsa Maroc** — *Data Scientist* (2022)
+- 🔍 Conducted exploratory data analysis of operational equipment data → identified modernization and predictive maintenance opportunities.
+- ⚙️ Built ETL pipeline aggregating heterogeneous sources (sensors, ERP, maintenance logs) → structured data workflow.
+- 📊 Developed advanced Tableau dashboards tracking availability rates and maintenance costs → **40% reduction in monthly reporting time**.
+
+### 💻 **Avito** — *NLP Intern* (2022)
+- 🧹 Cleaned and normalized user-generated text with Azure Data Factory.
+- 📊 Trained a classifier (92% accuracy) with TF-IDF + embeddings.
+- 🚀 Deployed a FastAPI microservice → automated text analysis of live ads.
+
+---
+
+### 🧰 My Data Science Toolbox
+
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-00B4CC?style=for-the-badge&logo=huggingface&logoColor=white)
+
+![Apache Spark](https://img.shields.io/badge/-PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Teradata](https://img.shields.io/badge/-Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)
+
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 My Current Mission
+🚀 **AVAILABLE IMMEDIATELY** for new opportunities!  
+💼 Actively seeking **full-time roles** as a **Data Scientist** or **ML Engineer** where I can **drive real-world impact** with machine learning.  
+✅ Recently completed my mission @ **Bouygues Telecom** with measurable business impact
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saadyaq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadyaq&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadyaq&theme=tokyonight" alt="GitHub Streak" />
-</div>
+## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadyaq&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saadyaq&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadyaq&layout=compact&theme=tokyonight&langs_count=8" width="48%" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadyaq&theme=tokyonight" width="60%" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadyaq&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph">
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="Trophies" />
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=saadyaq&repo=PROJECT_1&theme=tokyonight)](https://github.com/saadyaq/PROJECT_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=saadyaq&repo=PROJECT_2&theme=tokyonight)](https://github.com/saadyaq/PROJECT_2)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saadyaq&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies">
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 💼 Professional Status
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Available for Hire">
+  <img src="https://img.shields.io/badge/Notice%20Period-Immediate-success?style=for-the-badge&logo=clock&logoColor=white" alt="Immediate Availability">
+  <img src="https://img.shields.io/badge/Remote%20Work-Yes-blue?style=for-the-badge&logo=wifi&logoColor=white" alt="Remote Work">
+  <img src="https://img.shields.io/badge/Relocation-Open-orange?style=for-the-badge&logo=location&logoColor=white" alt="Open to Relocation">
+</p>
 
 ---
 
-## 💭 Random Dev Quote
+## 📈 Profile Views & Visitors
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const currentGoals = {
-    learning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-    building: ["Personal Portfolio", "Open Source Contributions"],
-    exploring: ["Web3", "AI/ML", "Microservices"],
-    coffee_consumed: "Too much to count ☕"
-};
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadyaq&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+  <img src="https://badges.pufler.dev/visits/saadyaq/saadyaq?style=for-the-badge&color=blue&logo=github" alt="Visitors">
+</p>
 
 ---
 
-## 📊 Profile Stats
+## 📫 Get in Touch
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=yellow)
-
-</div>
-
----
-
-<div align="center">
-  
-### "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thanks for visiting! Let's connect and build something amazing together!** 🚀
-
-</div>
+<p align="center">
+  <a href="mailto:saadyaqine91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/saad-yaqine-9461b2216/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/saadyaq">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</div>
+## 🧠 Fun Facts
+
+- 🌍 I'm trilingual: **French**, **English**, **Arabic**  
+- 🧬 I'm just as fluent in **SQL** as in any spoken language  
+- 🚀 I love building clean, reusable code that actually gets used  
+- ☕ Coffee-driven debugging is my superpower
+
+---
+
+## 🎨 Dynamic Elements
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Available+for+Immediate+Start;Transforming+Data+into+Business+Value;Python+%7C+SQL+%7C+MLOps+Expert;Let's+Build+Something+Amazing!" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Connect!&fontSize=50&fontAlignY=65&desc=Ready%20to%20contribute%20to%20your%20next%20data%20project&descAlignY=85&descAlign=50" width="100%">
+</p>
+
+---
+
+<sub>✨ This profile README was built with love, coffee, and clean data ✨</sub>
