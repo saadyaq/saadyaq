@@ -19,7 +19,12 @@ From NLP pipelines to scalable MLOps, I specialize in bringing machine learning 
 - ⚙️ Built MLOps pipelines (Docker, AWS Lambda, SageMaker) → **30% faster deployments**.
 - 🔄 Processed big customer datasets (PySpark, Dataiku) → **+40% ingestion performance**.
 
-### 🌍 **Universidad Politécnica de Valencia** — *AI/NLP Research Intern* (2023)
+### 💻 **Avito** — *NLP Intern* (2023)
+- 🧹 Cleaned and normalized user-generated text with Azure Data Factory.
+- 📊 Trained a classifier (92% accuracy) with TF-IDF + embeddings.
+- 🚀 Deployed a FastAPI microservice → automated text analysis of live ads.
+
+### 🌍 **Universidad Politécnica de Valencia** — *AI/NLP Research Intern* (2022 - 2023)
 - 🌐 Built **multilingual corpora** (news, tweets) for LLM pretraining.
 - 🏷️ Developed a language detection model (**>90% accuracy**) to enhance preprocessing.
 - 🧼 Created robust NLP pipelines: cleaning → vectorization → encoding.
@@ -29,10 +34,7 @@ From NLP pipelines to scalable MLOps, I specialize in bringing machine learning 
 - ⚙️ Built ETL pipeline aggregating heterogeneous sources (sensors, ERP, maintenance logs) → structured data workflow.
 - 📊 Developed advanced Tableau dashboards tracking availability rates and maintenance costs → **40% reduction in monthly reporting time**.
 
-### 💻 **Avito** — *NLP Intern* (2022)
-- 🧹 Cleaned and normalized user-generated text with Azure Data Factory.
-- 📊 Trained a classifier (92% accuracy) with TF-IDF + embeddings.
-- 🚀 Deployed a FastAPI microservice → automated text analysis of live ads.
+
 
 ---
 
