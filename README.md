@@ -19,7 +19,7 @@ From NLP pipelines to scalable MLOps, I specialize in bringing machine learning 
 - ⚙️ Built MLOps pipelines (Docker, AWS Lambda, SageMaker) → **30% faster deployments**.
 - 🔄 Processed big customer datasets (PySpark, Dataiku) → **+40% ingestion performance**.
 
-### 💻 **Avito** — *NLP Intern* (2023)
+### 💻 **Avito** — *Machine Learning Engineer* (2023)
 - 🧹 Cleaned and normalized user-generated text with Azure Data Factory.
 - 📊 Trained a classifier (92% accuracy) with TF-IDF + embeddings.
 - 🚀 Deployed a FastAPI microservice → automated text analysis of live ads.
