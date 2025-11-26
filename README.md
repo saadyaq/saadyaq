@@ -14,7 +14,7 @@ From NLP pipelines to scalable MLOps, I specialize in bringing machine learning 
 
 ## 🚀 My Data Science Journey
 
-### 🛰️ **Bouygues Telecom** — *Data Scientist* (2024)
+### 🛰️ **Bouygues Telecom** — *Data Scientist* (2024 - 2025)
 - 🧠 Designed a call classification model (94% accuracy) → reduced inefficient interactions by **46%**.
 - ⚙️ Built MLOps pipelines (Docker, AWS Lambda, SageMaker) → **30% faster deployments**.
 - 🔄 Processed big customer datasets (PySpark, Dataiku) → **+40% ingestion performance**.
