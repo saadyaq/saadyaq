@@ -123,6 +123,9 @@ From NLP pipelines to scalable MLOps, I specialize in bringing machine learning 
 ## 📫 Get in Touch
 
 <p align="center">
+  <a href="https://saadyaqine.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="mailto:saadyaqine91@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
