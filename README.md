@@ -8,7 +8,6 @@
 
 *"In data we trust — but first, we clean it."*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saadyaqine.com-blue?style=for-the-badge&logo=google-chrome)](https://saadyaqine.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saad-yaqine-9461b2216)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.yaqine@example.com)
 
