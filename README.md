@@ -142,7 +142,6 @@ From NLP pipelines to scalable MLOps, I specialize in bringing machine learning 
 
 **Open to opportunities in Data Science & ML Engineering**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4285F4?style=for-the-badge)](https://saadyaqine.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/saad-yaqine-9461b2216)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/saadyaq)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
